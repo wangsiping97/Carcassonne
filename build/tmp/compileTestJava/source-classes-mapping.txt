@@ -1,0 +1,16 @@
+edu/cmu/cs/cs214/hw4/core/PositionTest.java
+ edu.cmu.cs.cs214.hw4.core.PositionTest
+edu/cmu/cs/cs214/hw4/core/SegmentTest.java
+ edu.cmu.cs.cs214.hw4.core.SegmentTest
+edu/cmu/cs/cs214/hw4/core/PlayerTest.java
+ edu.cmu.cs.cs214.hw4.core.PlayerTest
+edu/cmu/cs/cs214/hw4/core/DirectionTest.java
+ edu.cmu.cs.cs214.hw4.core.DirectionTest
+edu/cmu/cs/cs214/hw4/core/DeckTest.java
+ edu.cmu.cs.cs214.hw4.core.DeckTest
+edu/cmu/cs/cs214/hw4/core/GameManagerTest.java
+ edu.cmu.cs.cs214.hw4.core.GameManagerTest
+edu/cmu/cs/cs214/hw4/core/TileTest.java
+ edu.cmu.cs.cs214.hw4.core.TileTest
+edu/cmu/cs/cs214/hw4/core/BoardTest.java
+ edu.cmu.cs.cs214.hw4.core.BoardTest

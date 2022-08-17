@@ -1,0 +1,222 @@
+{
+  "name": "Carcassone",
+  "tiles":
+          [
+            {
+              "id": "A",
+              "up": "FIELD",
+              "down": "ROADEND",
+              "left": "FIELD",
+              "right": "FIELD",
+              "center": "MONASTERY",
+              "quantity": 2
+            },
+            {
+              "id": "B",
+              "up": "FIELD",
+              "down": "FIELD",
+              "left": "FIELD",
+              "right": "FIELD",
+              "center": "MONASTERY",
+              "quantity": 4
+            },
+            {
+              "id": "C",
+              "up": "CITYOFARMS",
+              "down": "CITY",
+              "left": "CITY",
+              "right": "CITY",
+              "center": "NONE",
+              "quantity": 1
+            },
+            {
+              "id": "D",
+              "up": "ROAD",
+              "down": "ROAD",
+              "left": "FIELD",
+              "right": "CITYWALL",
+              "center": "NONE",
+              "quantity": 4
+            },
+            {
+              "id": "E",
+              "up": "CITYWALL",
+              "down": "FIELD",
+              "left": "FIELD",
+              "right": "FIELD",
+              "center": "NONE",
+              "quantity": 5
+            },
+            {
+              "id": "F",
+              "up": "FIELD",
+              "down": "FIELD",
+              "left": "CITYOFARMS",
+              "right": "CITY",
+              "center": "NONE",
+              "quantity": 2
+            },
+            {
+              "id": "G",
+              "up": "CITY",
+              "down": "CITY",
+              "left": "FIELD",
+              "right": "FIELD",
+              "center": "NONE",
+              "quantity": 1
+            },
+            {
+              "id": "H",
+              "up": "FIELD",
+              "down": "FIELD",
+              "left": "CITYWALL",
+              "right": "CITYWALL",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "I",
+              "up": "FIELD",
+              "down": "CITYWALL",
+              "left": "FIELD",
+              "right": "CITYWALL",
+              "center": "NONE",
+              "quantity": 2
+            },
+            {
+              "id": "J",
+              "up": "CITYWALL",
+              "down": "ROAD",
+              "left": "FIELD",
+              "right": "ROAD",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "K",
+              "up": "ROAD",
+              "down": "FIELD",
+              "left": "ROAD",
+              "right": "CITYWALL",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "L",
+              "up": "ROADEND",
+              "down": "ROADEND",
+              "left": "ROADEND",
+              "right": "CITYWALL",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "M",
+              "up": "CITYOFARMS",
+              "down": "FIELD",
+              "left": "CITY",
+              "right": "FIELD",
+              "center": "NONE",
+              "quantity": 2
+            },
+            {
+              "id": "N",
+              "up": "CITY",
+              "down": "FIELD",
+              "left": "CITY",
+              "right": "FIELD",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "O",
+              "up": "CITYOFARMS",
+              "down": "ROAD",
+              "left": "CITY",
+              "right": "ROAD",
+              "center": "NONE",
+              "quantity": 2
+            },
+            {
+              "id": "P",
+              "up": "CITY",
+              "down": "ROAD",
+              "left": "CITY",
+              "right": "ROAD",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "Q",
+              "up": "CITYOFARMS",
+              "down": "FIELD",
+              "left": "CITY",
+              "right": "CITY",
+              "center": "NONE",
+              "quantity": 1
+            },
+            {
+              "id": "R",
+              "up": "CITY",
+              "down": "FIELD",
+              "left": "CITY",
+              "right": "CITY",
+              "center": "NONE",
+              "quantity": 3
+            },
+            {
+              "id": "S",
+              "up": "CITYOFARMS",
+              "down": "ROADEND",
+              "left": "CITY",
+              "right": "CITY",
+              "center": "NONE",
+              "quantity": 2
+            },
+            {
+              "id": "T",
+              "up": "CITY",
+              "down": "ROADEND",
+              "left": "CITY",
+              "right": "CITY",
+              "center": "NONE",
+              "quantity": 1
+            },
+            {
+              "id": "U",
+              "up": "ROAD",
+              "down": "ROAD",
+              "left": "FIELD",
+              "right": "FIELD",
+              "center": "NONE",
+              "quantity": 8
+            },
+            {
+              "id": "V",
+              "up": "FIELD",
+              "down": "ROAD",
+              "left": "ROAD",
+              "right": "FIELD",
+              "center": "NONE",
+              "quantity": 9
+            },
+            {
+              "id": "W",
+              "up": "FIELD",
+              "down": "ROADEND",
+              "left": "ROADEND",
+              "right": "ROADEND",
+              "center": "NONE",
+              "quantity": 4
+            },
+            {
+              "id": "X",
+              "up": "ROADEND",
+              "down": "ROADEND",
+              "left": "ROADEND",
+              "right": "ROADEND",
+              "center": "NONE",
+              "quantity": 1
+            }
+          ]
+}

@@ -16,7 +16,7 @@
 
 7. Use the Meeple bar at the bottom of the window to place or not to place the meeple. 
 
-   ![4]/screen_shots/4.png)
+   ![4](/screen_shots/4.png)
 
 8. The game will automatically go to the next round. 
 
